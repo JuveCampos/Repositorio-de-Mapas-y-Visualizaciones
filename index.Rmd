@@ -9,6 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Repositorio de mapas: 
 
-* [Mapa de cevicherías](mapas/Ciudad De México-consulta-mariscos.html) 
+* [Mapa de cevicherías](mapas/cdmx_mariscos.html) 
 
 
