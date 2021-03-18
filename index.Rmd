@@ -13,3 +13,9 @@ Repositorio de mapas:
 
 <iframe src="https://juvecampos.github.io/mapas/mapas/cdmx_mariscos.html" width="100%" height="600" style="border:none;">
 </iframe>
+
+* [Mapa de Taquerías y Torterías de Coahuila](mapas/Coahuila-consulta.html)
+
+<iframe src="mapas/Coahuila-consulta.html" width="100%" height="600" style="border:none;">
+</iframe>
+
