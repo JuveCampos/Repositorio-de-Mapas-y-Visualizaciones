@@ -19,3 +19,8 @@ Repositorio de mapas:
 <iframe src="mapas/Coahuila-consulta.html" width="100%" height="600" style="border:none;">
 </iframe>
 
+* [Gráfica del dia 15 - Bivariado del #30DayChartChallenge del 2021](mapas/15_interactiva.html)
+
+<iframe src="mapas/15_interactiva.html" width="100%" height="600" style="border:none;">
+</iframe>
+
